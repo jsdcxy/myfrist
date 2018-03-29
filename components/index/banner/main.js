@@ -11,7 +11,7 @@ export default {
     },
     methods: {
         getImages() {
-            Vue.$http.get('/banners/1').then(res => {
+            Vue.$http.get('/banners').then(res => {
                 this.images =res.data
                 //console.log(res)
             }).catch(function (error) {
