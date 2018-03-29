@@ -3,17 +3,19 @@ import Vue from 'vue'
 export default {
     data() {
         return {
-            images: []
+            menus: []
         }
     },
     created() {
-        this.getImages()
+        this.getMenus()
+
     },
     methods: {
-        getImages() {
-            Vue.$http.get('/banners/1').then(res => {
-                this.images =res.data
-                //console.log(res)
+        getMenus() {
+            Vue.$http.get('/menus').then(res => {
+                this.menus =res.data
+                // console.log(this.menus)
+                console.log(this.menus[0].src)
             }).catch(function (error) {
                 console.log(error);
               });
