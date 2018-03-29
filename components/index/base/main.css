@@ -3,7 +3,11 @@
     background-color: #B3C0D1;
     color: #333;
     text-align: center;
-    line-height: 60px;
+    line-height: 30px;
+    position: absolute;
+    bottom: 0;
+    padding:10px0;  
+    width:100%;  
   }
   .bg-purple {
     background: #B3C0D1;
