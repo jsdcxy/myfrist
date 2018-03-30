@@ -1,5 +1,12 @@
-<el-row class="mb">
-        <el-col :span="11" v-for="(img, id) in images" :key="id" :offset="index > 0 ? 2 : 0">
+<el-row>
+  <el-col :span="24" v-for="(tles, id) in tle" :key="id" >
+     <div class="mb"> 
+      <span >{{tles.title}}</span>
+      <el-button  class="eb" size="mini" round>更多<i class="el-icon-arrow-right el-icon--right"></i></el-button>
+      <!-- <span>更多<i class="el-icon-d-arrow-right el-icon--right"></i></span> -->
+    </div>
+      <el-row class="">
+        <el-col :span="6" v-for="(img, id) in images" :key="id" ><!--:offset="id%2!= 0 ? 2 : 0"-->
           <el-card :body-style="{ padding: '0px' }">
             <img v-bind:src="img.src" class="image">
             <div style="padding: 14px;">
@@ -11,4 +18,6 @@
             </div>
           </el-card>
         </el-col>
+      </el-row>
+  </el-col>
 </el-row>

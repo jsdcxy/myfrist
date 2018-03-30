@@ -33,7 +33,10 @@
     {
       "id": 1,
       "title": "食品",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      {
+        "url":"",
+      }
     },
     {
       "id": 2,

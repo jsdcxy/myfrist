@@ -3,11 +3,13 @@ export default {
     data() {
       return {
         images: [],
+        tle:[],
         currentDate: new Date()
       };
     },
     created() {
-      this.getImages()
+      this.getImages();
+      this.getTitle();
     },
     methods: {
       getImages() {
@@ -17,6 +19,14 @@ export default {
           }).catch(function (error) {
               console.log(error);
             });
-      }
+      },
+      getTitle() {
+        Vue.$http.get('/menus').then(res => {
+            this.tle =res.data
+            //console.log(res)
+        }).catch(function (error) {
+            console.log(error);
+          });
+    }
     }
   }
