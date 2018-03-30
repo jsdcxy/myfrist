@@ -21,7 +21,7 @@
     }, {
       "id": 5,
       "title": "image 02",
-      "src": "http://share-files.fccn.cc/0dfc5245-18f5-4525-879f-146071a16c88.jpg?imageView2/1/w/400/h/400/interlace/1/ignore-error/1"  
+      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text.jpg?raw=true"  
     },
     {
       "title": "image 06",
@@ -32,25 +32,25 @@
   "menus":[
     {
       "id": 1,
-      "title": "menu 01",
+      "title": "食品",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
     },
     {
       "id": 2,
-      "title": "menu 02",
+      "title": "书籍",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
     },
     {
       "id": 3,
-      "title": "menu 03",
+      "title": "数码产品",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
     },{
       "id": 4,
-      "title": "menu 04",
+      "title": "男装",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
     },{
       "id": 5,
-      "title": "menu 05",
+      "title": "女装",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
     },{
       "id": 6,
@@ -75,6 +75,48 @@
       "id": 10,
       "title": "menu 10",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
+    }
+  ],
+  "shiwu":[
+    {
+      "id": 1,
+      "title": "香肠",
+      "src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg"
+    },
+    {
+      "id": 2,
+      "title": "香肠",
+      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true"
+    },
+    {
+      "id": 3,
+      "title": "香肠",
+      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true"
+    },
+    {
+      "id": 4,
+      "title": "香肠",
+      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true"
+    },
+    {
+      "id": 5,
+      "title": "香肠",
+      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true"
+    },
+    {
+      "id": 6,
+      "title": "香肠",
+      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true"
+    },
+    {
+      "id": 7,
+      "title": "香肠",
+      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true"
+    },
+    {
+      "id": 8,
+      "title": "香肠",
+      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true"
     }
   ]
 }
