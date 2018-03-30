@@ -10,6 +10,7 @@ body > .el-container {
   .el-container:nth-child(7) .el-aside {
     line-height: 320px;
   }
-  indexBanner,indexMenu,indexProducts{
+ indexBanner,indexMenu,indexProducts{
     overflow-y: scroll;/*随内容变化滚动条*/
+    height: 800px;
   }

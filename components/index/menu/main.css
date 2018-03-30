@@ -4,7 +4,7 @@
     text-align: center;
     line-height: 100px;
     /* width: 100%; */
-    height: 280px;
+    height: 250px;
     /* overflow: auto;出现滚动条*/
     /*overflow-y: scroll;*/
     overflow:hidden;/*不出现滚动条*/
