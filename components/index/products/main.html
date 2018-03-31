@@ -6,14 +6,15 @@
       <!-- <span>更多<i class="el-icon-d-arrow-right el-icon--right"></i></span> -->
     </div>
       <el-row class="">
-        <el-col :span="6" v-for="(img, id) in images" :key="id" ><!--:offset="id%2!= 0 ? 2 : 0"-->
+        <el-col :span="6" v-for="(img, id) in images" :key="id"  v-if="id<4"><!--:offset="id%2!= 0 ? 2 : 0"-->
           <el-card :body-style="{ padding: '0px' }">
             <img v-bind:src="img.src" class="image">
             <div style="padding: 14px;">
               <span>{{img.title}}</span>
               <div class="bottom clearfix">
+                  <span>店铺: {{img.store}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <time class="time">{{ currentDate }}</time>
-                <el-button type="text" class="button">操作按钮</el-button>
+                <!-- <el-button type="text" class="button">操作按钮</el-button> -->
               </div>
             </div>
           </el-card>
