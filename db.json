@@ -43,22 +43,23 @@
         },
         {
           "store_id": 2,
-          "store_title": "香肠",
-          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store_title": "面包",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
           "store": "haha"
         },
         {
           "store_id": 3,
-          "store_title": "香肠",
-          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store_title": "牛奶",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
           "store": "haha"
         },
         {
           "store_id": 4,
-          "store_title": "香肠",
-          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
-          "store": "haha"
-        },{
+          "store_title": "苹果",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/%E8%8B%B9%E6%9E%9C.jpg?raw=true",
+          "store": "哈哈水果店"
+        },
+        {
           "store_id": 5,
           "store_title": "香肠",
           "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
@@ -116,9 +117,10 @@
         {
           "store_id": 4,
           "store_title": "苹果",
-          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/%E8%8B%B9%E6%9E%9C.jpg?raw=true",
           "store": "haha"
-        },{
+        },
+        {
           "store_id": 5,
           "store_title": "香肠",
           "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
