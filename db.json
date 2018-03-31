@@ -31,100 +31,184 @@
   ],
   "menus":[
     {
-      "id": 1,
+      "id": 0,
       "title": "食品",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
-      "url":""
+      "store_list":[
+        {
+          "store_id": 1,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 2,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 3,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 4,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },{
+          "store_id": 5,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 6,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 7,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 8,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "书籍",
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list": []
     },
     {
       "id": 2,
-      "title": "书籍",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
-    },
-    {
-      "id": 3,
       "title": "数码产品",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list":[
+        {
+          "store_id": 1,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 2,
+          "store_title": "香肠",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store": "haha"
+        },
+        {
+          "store_id": 3,
+          "store_title": "香肠",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store": "haha"
+        },
+        {
+          "store_id": 4,
+          "store_title": "香肠",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store": "haha"
+        },{
+          "store_id": 5,
+          "store_title": "香肠",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 6,
+          "store_title": "香肠",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store": "haha"
+        },
+        {
+          "store_id": 7,
+          "store_title": "香肠",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store": "haha"
+        },
+        {
+          "store_id": 8,
+          "store_title": "香肠",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store": "haha"
+        }
+      ]
+    },{
+      "id": 3,
+      "title": "男装",
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list":[
+        {
+          "store_id": 1,
+          "store_title": "皮鞋",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 2,
+          "store_title": "皮带",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store": "haha"
+        }
+      ]
     },{
       "id": 4,
-      "title": "男装",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
+      "title": "女装",
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list":[
+        {
+          "store_id": 1,
+          "store_title": "上衣",
+          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
+          "store": "haha"
+        },
+        {
+          "store_id": 2,
+          "store_title": "裙子",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
+          "store": "haha"
+        }
+      ]
     },{
       "id": 5,
-      "title": "女装",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
+      "title": "menu 06",
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list": []
     },{
       "id": 6,
-      "title": "menu 06",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
-    },{
-      "id": 7,
       "title": "menu 07",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list": []
+    },
+    {
+      "id": 7,
+      "title": "menu 08",
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list": []
     },
     {
       "id": 8,
-      "title": "menu 08",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
+      "title": "menu 09",
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list": []
     },
     {
       "id": 9,
-      "title": "menu 09",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
-    },
-    {
-      "id": 10,
       "title": "menu 10",
-      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png"
-    }
-  ],
-  "shiwu":[
-    {
-      "id": 1,
-      "title": "香肠",
-      "src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
-      "store": "haha"
-    },
-    {
-      "id": 2,
-      "title": "香肠",
-      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
-      "store": "haha"
-    },
-    {
-      "id": 3,
-      "title": "香肠",
-      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
-      "store": "haha"
-    },
-    {
-      "id": 4,
-      "title": "香肠",
-      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
-      "store": "haha"
-    },{
-      "id": 5,
-      "title": "香肠",
-      "src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
-      "store": "haha"
-    },
-    {
-      "id": 6,
-      "title": "香肠",
-      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
-      "store": "haha"
-    },
-    {
-      "id": 7,
-      "title": "香肠",
-      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
-      "store": "haha"
-    },
-    {
-      "id": 8,
-      "title": "香肠",
-      "src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
-      "store": "haha"
+      "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
+      "store_list": []
     }
   ]
+  
+  
 }
