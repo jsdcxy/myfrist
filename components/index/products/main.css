@@ -42,12 +42,14 @@
     height: 50px;
     width: 100%;
     line-height: 50px;
-    background-color: rgb(236, 233, 17);
+    background-image: url(/assets/images/menus_bg.png);
+
     /* margin-bottom: 60px;  */
-    /* text-align: center;*/
+    text-align: center;
   } 
 .eb{
   /* text-align: right; */
+  margin-right: 10px;
   margin-top: 15px;
   float: right;
     /* float: right; */
