@@ -37,21 +37,21 @@
       "store_list":[
         {
           "store_id": 1,
-          "store_title": "香肠",
-          "store_src": "https://raw.githubusercontent.com/jsdcxy/myfrist/master/assets/images/text02.jpg",
-          "store": "haha"
+          "store_title": "葡萄",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/%E8%91%A1%E8%90%84.jpg?raw=true",
+          "store": "嘻嘻水果店"
         },
         {
           "store_id": 2,
-          "store_title": "面包",
-          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
-          "store": "haha"
+          "store_title": "香蕉",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/%E9%A6%99%E8%95%89.jpg?raw=true",
+          "store": "嘻嘻水果店"
         },
         {
           "store_id": 3,
-          "store_title": "牛奶",
-          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/text02.jpg?raw=true",
-          "store": "haha"
+          "store_title": "桃子",
+          "store_src": "https://github.com/jsdcxy/myfrist/blob/master/assets/images/%E6%A1%83%E5%AD%90.jpg?raw=true",
+          "store": "哈哈水果店"
         },
         {
           "store_id": 4,
@@ -183,30 +183,30 @@
       ]
     },{
       "id": 5,
-      "title": "menu 06",
+      "title": "家电",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
       "store_list": []
     },{
       "id": 6,
-      "title": "menu 07",
+      "title": "床上用品",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
       "store_list": []
     },
     {
       "id": 7,
-      "title": "menu 08",
+      "title": "生活用品",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
       "store_list": []
     },
     {
       "id": 8,
-      "title": "menu 09",
+      "title": "鞋子",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
       "store_list": []
     },
     {
       "id": 9,
-      "title": "menu 10",
+      "title": "其他",
       "src": "http://ozaf3jrb8.bkt.clouddn.com/0377f7f0-829b-42c9-bb8b-32109c4b7907.png",
       "store_list": []
     }
